@@ -77,7 +77,7 @@ function App() {
       ></div>
       <div className="Parallax__content">{renderContent()}</div>
     </section>
-  );
+  )
 }
 
 export default App;
