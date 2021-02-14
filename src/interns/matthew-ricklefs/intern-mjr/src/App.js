@@ -73,7 +73,7 @@ function App() {
       </div>
       <div
         className="Parallax__background-triangles"
-        style={{ transform: `translateY(${offsetY * 0.8}px)` }}
+        style={{ transform: `translateY(${offsetY * -0.8}px)` }}
       ></div>
       <div className="Parallax__content">{renderContent()}</div>
     </section>
