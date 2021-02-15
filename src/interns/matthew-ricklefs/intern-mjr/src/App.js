@@ -28,8 +28,8 @@ function App() {
           us in this day and age. I've always been fascinated with technology.
           Even as an adolescent I would immerse myself in the experience of
           gamification. Whether it was Playstation or Nintendo, I was captivated
-          by interactive storytelling and perpetual rewards system. As I entered
-          my early adulthood, I studio Audio Engineering to begin the process of
+          by interactive storytelling and perpetual rewards systems. As I entered
+          my early adulthood, I studied Audio Engineering to begin the process of
           channeling creative energy through the medium of Sound Design. Perhaps
           I never truly believed in my purpose and fell into the nuance of Food
           and Beverage, somewhat losing my primary objective in life, being the
@@ -77,7 +77,7 @@ function App() {
       ></div>
       <div className="Parallax__content">{renderContent()}</div>
     </section>
-  );
+  )
 }
 
 export default App;
